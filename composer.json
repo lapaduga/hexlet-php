@@ -1,0 +1,15 @@
+{
+    "name": "lapaduga/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Lapaduga\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lapaduga",
+            "email": "deniskotov29042015@gmail.com"
+        }
+    ],
+    "require": {}
+}
